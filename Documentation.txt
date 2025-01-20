@@ -1,0 +1,3 @@
+appwrite
+tinymce
+react hook form
